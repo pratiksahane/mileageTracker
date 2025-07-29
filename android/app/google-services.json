@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "278500352342",
+    "project_id": "mileagetracker-95c9e",
+    "storage_bucket": "mileagetracker-95c9e.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:278500352342:android:71205b86774e02387bf6f7",
+        "android_client_info": {
+          "package_name": "com.example.fulleconomymileagetracker"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDBpHqXAVCexCAxih5-WyCtJ6tLIrVAfYc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
